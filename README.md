@@ -1,7 +1,7 @@
 # arduino_robot_arm
 This project aims to design electronic circuit to control 5 micro servo motors.
 
-## Installation Steps:
+## Installation guide:
   Firstly we need to use three componants (Arduino Uno R3, Micro Sevo, Breadboard) 
   1. Plug ground(GND) wire in the arduino into the negative port in the breadboard.
   2. Plug ground wire in the micro servo into the negative port in the breadboard.
