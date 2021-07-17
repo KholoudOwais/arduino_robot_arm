@@ -1,5 +1,5 @@
 # arduino_robot_arm
-This project aims to design electronic circuit to control 5 micro servo motors.
+This project aims to design and program electronic circuit to control 5 micro servo motors.
 
 ## Installation guide:
   Firstly we need to use three componants (Arduino Uno R3, Micro Sevo, Breadboard) 
